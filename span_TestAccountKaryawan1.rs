@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_TestAccountKaryawan1</name>
+   <tag></tag>
+   <elementGuidId>55570fab-a4f9-41af-9afe-06391cbe87d1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div[3]/header/ul[3]/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>ul.px-3.c-header-nav > span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=banner >> internal:text=&quot;TestAccountKaryawan1&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>a0b4b9e7-1318-4bc9-9c68-0845d8ccaffd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>TestAccountKaryawan1</value>
+      <webElementGuid>6069efda-6ed2-44b5-a256-638abf966370</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;c-app c-default-layout&quot;]/div[@class=&quot;c-wrapper&quot;]/header[@class=&quot;header-root c-header c-header-light c-header-fixed&quot;]/ul[@class=&quot;px-3 c-header-nav&quot;]/span[1]</value>
+      <webElementGuid>4b0e9aff-574f-4dd8-be8b-e496ada09c48</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[3]/header/ul[3]/span</value>
+      <webElementGuid>539734a5-8e7f-4c9d-8a8f-46e74505933f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Admin telah mengkonfirmasi pengajuan lembur'])[2]/following::span[2]</value>
+      <webElementGuid>f5d989b8-45ab-4125-8fd9-24408da2fb93</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Admin telah mengkonfirmasi pengajuan lembur'])[1]/following::span[4]</value>
+      <webElementGuid>c3880969-2187-4ef7-87f6-df6fd70fc7bf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='History Logbook'])[1]/preceding::span[1]</value>
+      <webElementGuid>6c39ba7c-88a7-4850-9864-3aba49e4c7f2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hapus Logbook'])[1]/preceding::span[1]</value>
+      <webElementGuid>43ca72cd-b0ea-4621-965c-bf8ff4aed520</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//ul[3]/span</value>
+      <webElementGuid>9d9d708a-5460-42bf-a2ea-b7daa65a602e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'TestAccountKaryawan1' or . = 'TestAccountKaryawan1')]</value>
+      <webElementGuid>584f5e32-a795-4a4e-88ff-752afc0582e1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
