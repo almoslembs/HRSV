@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Ajukan Cuti</name>
+   <tag></tag>
+   <elementGuidId>f3bddfa7-a976-4c9e-8741-83bb65e241d4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[6]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.button-gradient-blue.btn</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;Ajukan Cuti&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>11ac4aee-fbb4-40b6-9360-0a67b05c298e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>button-gradient-blue btn</value>
+      <webElementGuid>89151561-8925-4827-84cd-2e413387c6ce</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>9f2e7806-540f-4f44-a7d3-31a73d38b6bc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Ajukan Cuti</value>
+      <webElementGuid>9e599083-aae9-492b-9c59-1f54b29087d1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;c-app c-default-layout&quot;]/div[@class=&quot;c-wrapper&quot;]/div[@class=&quot;c-body&quot;]/main[@class=&quot;c-main&quot;]/div[@class=&quot;container-fluid&quot;]/div[@class=&quot;fade show&quot;]/div[@class=&quot;container-mains&quot;]/div[@class=&quot;mx-4&quot;]/div[@class=&quot;align-items d-flex justify-content-between mb-2&quot;]/div[2]/a[@class=&quot;nav-link&quot;]/button[@class=&quot;button-gradient-blue btn&quot;]</value>
+      <webElementGuid>94a4f8b6-82bf-4a43-9176-d0d2e44d8464</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[6]</value>
+      <webElementGuid>99cdf4d1-6dae-41d3-ab19-a5d087a8d44c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[3]/div/main/div/div/div/div[2]/div/div[2]/a/button</value>
+      <webElementGuid>cab1f2b7-4ee6-430e-b3ce-b91f4a507aee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Riwayat Pengajuan Cuti'])[1]/following::button[1]</value>
+      <webElementGuid>d1094b1a-2efe-4707-b429-40273110c13c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tidak Disetujui'])[1]/following::button[1]</value>
+      <webElementGuid>43958f8f-a97f-43e9-aaa5-d10a486dec76</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Action'])[1]/preceding::button[1]</value>
+      <webElementGuid>456082d4-513b-448e-973d-cec9d42b993d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a/button</value>
+      <webElementGuid>e9888872-5f15-4891-942f-eecb60c2dee3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'Ajukan Cuti' or . = 'Ajukan Cuti')]</value>
+      <webElementGuid>c8e7bc6e-d23e-4ac4-882e-c40cda0ad034</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Tambah Logbook</name>
+   <tag></tag>
+   <elementGuidId>8e1432e2-9091-44fb-bb61-5dd8d105e4df</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[7]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.button-gradient-blue.btn</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;Tambah Logbook&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>e9586c32-1c95-4db8-b276-c1c1430c3c24</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>button-gradient-blue btn</value>
+      <webElementGuid>57c39949-9caa-4e14-915d-60945b1627c5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>b19279db-bf49-4208-a2b0-7019e082665e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Tambah Logbook</value>
+      <webElementGuid>b2e87eff-2f6c-4973-a61f-c904fe9f5149</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;c-app c-default-layout&quot;]/div[@class=&quot;c-wrapper&quot;]/div[@class=&quot;c-body&quot;]/main[@class=&quot;c-main&quot;]/div[@class=&quot;container-fluid&quot;]/div[@class=&quot;fade show&quot;]/div[@class=&quot;container-mains&quot;]/div[@class=&quot;align-items d-flex justify-content-between&quot;]/div[2]/button[@class=&quot;button-gradient-blue btn&quot;]</value>
+      <webElementGuid>58ce5ede-e7f9-48c6-affd-579499188faf</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[7]</value>
+      <webElementGuid>ec5179df-5977-4990-830f-bee40b180abc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[3]/div/main/div/div/div/div/div[2]/button[2]</value>
+      <webElementGuid>7ed9ab30-b760-44b1-bbb9-49680840e85d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hapus Logbook'])[1]/following::button[1]</value>
+      <webElementGuid>cd93e0dd-1481-4574-92b4-3c14fc31f5fb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='History Logbook'])[1]/following::button[2]</value>
+      <webElementGuid>6f75f598-4df5-445b-a64b-efb51539d0eb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Anda yakin ingin menghapus Logbook'])[1]/preceding::button[1]</value>
+      <webElementGuid>f55b590b-7811-4329-a35e-8b442473b729</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/div/div[2]/button[2]</value>
+      <webElementGuid>465ac956-3974-4f86-948e-fb9b582b1be9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'Tambah Logbook' or . = 'Tambah Logbook')]</value>
+      <webElementGuid>e8ce6313-caa7-4894-90bd-c31fd5126807</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

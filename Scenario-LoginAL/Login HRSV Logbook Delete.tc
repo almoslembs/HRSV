@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Login HRSV Logbook Delete</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>2e6b6ae2-7a0f-4870-9d9a-dd1f7bef54cc</testCaseGuid>
+</TestCaseEntity>

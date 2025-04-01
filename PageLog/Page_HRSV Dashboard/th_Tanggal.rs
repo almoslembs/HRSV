@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>th_Tanggal</name>
+   <tag></tag>
+   <elementGuidId>0c8677ec-fbfa-4e13-bbe1-3e8483ac8a33</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div[3]/div/main/div/div/div/div[5]/div/div[2]/table/thead/tr/th[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=cell[name=&quot;Tanggal&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>th</value>
+      <webElementGuid>6cb9a2c6-92f5-4036-9a1a-c93c972bb2d4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>position-relative pr-4</value>
+      <webElementGuid>25e95379-abb7-473b-812d-c715ddb3040f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Tanggal</value>
+      <webElementGuid>dcfe58c2-ef83-494a-a504-61cea55bce23</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;c-app c-default-layout&quot;]/div[@class=&quot;c-wrapper&quot;]/div[@class=&quot;c-body&quot;]/main[@class=&quot;c-main&quot;]/div[@class=&quot;container-fluid&quot;]/div[@class=&quot;fade show&quot;]/div[@class=&quot;container-mains&quot;]/div[@class=&quot;card&quot;]/div[@class=&quot;card-body&quot;]/div[@class=&quot;position-relative table-responsive&quot;]/table[@class=&quot;table&quot;]/thead[1]/tr[1]/th[@class=&quot;position-relative pr-4&quot;]</value>
+      <webElementGuid>f7c640a4-a97a-4970-8c3f-6810ccfb27fd</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[3]/div/main/div/div/div/div[5]/div/div[2]/table/thead/tr/th[3]</value>
+      <webElementGuid>f7b51057-e918-4e45-82e5-a4b76e80fb86</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Action'])[1]/following::th[1]</value>
+      <webElementGuid>4396f3f6-2382-42f7-8e8b-6ebf79258a11</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Show'])[1]/following::th[3]</value>
+      <webElementGuid>72100eed-0aec-4bdf-bbef-0a10a3fc61bb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Jam Mulai'])[2]/preceding::th[1]</value>
+      <webElementGuid>27741d56-e825-434d-a16a-128abf4ef0dd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//th[3]</value>
+      <webElementGuid>8ec02275-c2a5-4f9d-8638-528bdedb5910</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//th[(text() = 'Tanggal' or . = 'Tanggal')]</value>
+      <webElementGuid>feb14985-f4a7-4d83-b272-d0cda0db8cca</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

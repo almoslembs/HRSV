@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>verifyButtonLoginAL</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>772db956-7876-40d2-b1d6-91a9df61f3cf</testCaseGuid>
+</TestCaseEntity>

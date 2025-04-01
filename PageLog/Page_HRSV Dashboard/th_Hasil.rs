@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>th_Hasil</name>
+   <tag></tag>
+   <elementGuidId>d0c17d97-a0a8-4db2-a1ec-ee393296bfe4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div[3]/div/main/div/div/div/div[5]/div/div[2]/table/thead/tr/th[11]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=cell[name=&quot;Hasil&quot;s]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>th</value>
+      <webElementGuid>37c591f0-60c9-49a9-93aa-e6d89919f2e5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>position-relative pr-4</value>
+      <webElementGuid>35046853-e315-40fc-b5c3-e07a47e22dd2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Hasil</value>
+      <webElementGuid>83552bb6-6c15-41ed-8f4f-2ed148975e3d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;c-app c-default-layout&quot;]/div[@class=&quot;c-wrapper&quot;]/div[@class=&quot;c-body&quot;]/main[@class=&quot;c-main&quot;]/div[@class=&quot;container-fluid&quot;]/div[@class=&quot;fade show&quot;]/div[@class=&quot;container-mains&quot;]/div[@class=&quot;card&quot;]/div[@class=&quot;card-body&quot;]/div[@class=&quot;position-relative table-responsive&quot;]/table[@class=&quot;table&quot;]/thead[1]/tr[1]/th[@class=&quot;position-relative pr-4&quot;]</value>
+      <webElementGuid>99b55c21-639d-4aef-9980-6a1a86ccba03</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[3]/div/main/div/div/div/div[5]/div/div[2]/table/thead/tr/th[11]</value>
+      <webElementGuid>ec788b18-e5e8-4276-aa0c-f3ca3b548662</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kegiatan'])[2]/following::th[1]</value>
+      <webElementGuid>deeee2d3-d3af-48dc-856c-7f92e80b658f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Use Case'])[2]/following::th[2]</value>
+      <webElementGuid>76bf7351-4bc2-4db0-9989-c4c134fd864c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Satuan Hasil'])[1]/preceding::th[1]</value>
+      <webElementGuid>40ad1626-ddcf-4caa-b612-7b7970db4754</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//th[11]</value>
+      <webElementGuid>90caec9a-54af-45ca-bad3-1aba5bd78e44</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//th[(text() = 'Hasil' or . = 'Hasil')]</value>
+      <webElementGuid>c20f8c75-5e19-4369-824a-4b1b8ab04214</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

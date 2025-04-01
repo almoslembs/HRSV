@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Form Pengajuan CutiTanggal CutiJanuaryF_0b144c</name>
+   <tag></tag>
+   <elementGuidId>deed242f-768b-4473-947b-c8adc0405220</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div[3]/div/main/div/div/div/div/div/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.mb-4.card-body</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Form Pengajuan CutiTanggal CutiJanuaryFebruaryMarchAprilMayJuneJulyAugustSeptemb&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>55937c95-55f1-4386-b4a8-539de4cf283d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mb-4 card-body</value>
+      <webElementGuid>3668eb9a-07ae-47e5-88dd-1b652f08222b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Form Pengajuan CutiTanggal CutiJanuaryFebruaryMarchAprilMayJuneJulyAugustSeptemberOctoberNovemberDecember2045204420432042204120402039203820372036203520342033203220312030202920282027202620252024202320222021202020192018201720162015201420132012201120102009200820072006200520042003200220012000199919981997199619951994199319921991199019891988198719861985198419831982198119801979197819771976197519741973197219711970196919681967196619651964196319621961196019591958195719561955195419531952195119501949194819471946194519441943194219411940193919381937193619351934193319321931193019291928192719261925Apr 2025SunMonTueWedThuFriSat3031123456789101112131415161718192021222324252627282930123May 2025SunMonTueWedThuFriSat2728293012345678910111213141516171819202122232425262728293031Total Hari1 HariJenis Cuti-Select-Cuti TahunanCuti HamilCuti SakitCuti LainnyaNama PIC-Select-yanragaTris Retno AryaniTris R ATestingDemoAppTesting123Testing Karyawan Baru scTestDev1TestAccountPM1test uat2Test UAT test nama lengkapTest Karyawan BaruSUHERMAN RIYANTOSanti Dwi Astuti123RonaldoRatnaRamdanProject Managet TestProject Manager PrimaMikala FazaMika AnasMentari muliaMentari muliaMentari muliaLovensia Zukruff AlbasitJohn Data AnalystIka AnasherviHaeranierina fadilah palu gada indonesiaerina fadilah palu gada indonesiaerina fadilah palu gada indonesiaerina fadilah palu gada indonesiaerina fadilah palu gada indonesiaerina fadilah palu gada indonesiabzBAMBANG ARIFINasdAndriAhlan RezkiAgus Setyaadnan111Keterangan CutiTanda Tangan DigitalSubmit</value>
+      <webElementGuid>d5c1a453-0439-4daa-9247-7b4e0604df3d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;c-app c-default-layout&quot;]/div[@class=&quot;c-wrapper&quot;]/div[@class=&quot;c-body&quot;]/main[@class=&quot;c-main&quot;]/div[@class=&quot;container-fluid&quot;]/div[@class=&quot;fade show&quot;]/div[@class=&quot;container-mains&quot;]/div[@class=&quot;justify-content-center row&quot;]/div[@class=&quot;col-md-8&quot;]/div[@class=&quot;card&quot;]/div[@class=&quot;mb-4 card-body&quot;]</value>
+      <webElementGuid>5bd2550e-8eab-4be8-8d73-8ec8db224ac0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[3]/div/main/div/div/div/div/div/div/div</value>
+      <webElementGuid>cadc2149-f7e7-4356-9b38-97cbfbfc3333</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='TestAccountKaryawan1'])[2]/following::div[10]</value>
+      <webElementGuid>cda07247-6bc5-4e1a-91ca-7a2457be34fe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Admin telah mengkonfirmasi pengajuan lembur'])[2]/following::div[10]</value>
+      <webElementGuid>d94bd614-51cb-479c-8af7-c1d8f80824fa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/div/div/div/div</value>
+      <webElementGuid>0ab86dc8-f11d-4e67-95a9-e4769b8ec1e0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Form Pengajuan CutiTanggal CutiJanuaryFebruaryMarchAprilMayJuneJulyAugustSeptemberOctoberNovemberDecember2045204420432042204120402039203820372036203520342033203220312030202920282027202620252024202320222021202020192018201720162015201420132012201120102009200820072006200520042003200220012000199919981997199619951994199319921991199019891988198719861985198419831982198119801979197819771976197519741973197219711970196919681967196619651964196319621961196019591958195719561955195419531952195119501949194819471946194519441943194219411940193919381937193619351934193319321931193019291928192719261925Apr 2025SunMonTueWedThuFriSat3031123456789101112131415161718192021222324252627282930123May 2025SunMonTueWedThuFriSat2728293012345678910111213141516171819202122232425262728293031Total Hari1 HariJenis Cuti-Select-Cuti TahunanCuti HamilCuti SakitCuti LainnyaNama PIC-Select-yanragaTris Retno AryaniTris R ATestingDemoAppTesting123Testing Karyawan Baru scTestDev1TestAccountPM1test uat2Test UAT test nama lengkapTest Karyawan BaruSUHERMAN RIYANTOSanti Dwi Astuti123RonaldoRatnaRamdanProject Managet TestProject Manager PrimaMikala FazaMika AnasMentari muliaMentari muliaMentari muliaLovensia Zukruff AlbasitJohn Data AnalystIka AnasherviHaeranierina fadilah palu gada indonesiaerina fadilah palu gada indonesiaerina fadilah palu gada indonesiaerina fadilah palu gada indonesiaerina fadilah palu gada indonesiaerina fadilah palu gada indonesiabzBAMBANG ARIFINasdAndriAhlan RezkiAgus Setyaadnan111Keterangan CutiTanda Tangan DigitalSubmit' or . = 'Form Pengajuan CutiTanggal CutiJanuaryFebruaryMarchAprilMayJuneJulyAugustSeptemberOctoberNovemberDecember2045204420432042204120402039203820372036203520342033203220312030202920282027202620252024202320222021202020192018201720162015201420132012201120102009200820072006200520042003200220012000199919981997199619951994199319921991199019891988198719861985198419831982198119801979197819771976197519741973197219711970196919681967196619651964196319621961196019591958195719561955195419531952195119501949194819471946194519441943194219411940193919381937193619351934193319321931193019291928192719261925Apr 2025SunMonTueWedThuFriSat3031123456789101112131415161718192021222324252627282930123May 2025SunMonTueWedThuFriSat2728293012345678910111213141516171819202122232425262728293031Total Hari1 HariJenis Cuti-Select-Cuti TahunanCuti HamilCuti SakitCuti LainnyaNama PIC-Select-yanragaTris Retno AryaniTris R ATestingDemoAppTesting123Testing Karyawan Baru scTestDev1TestAccountPM1test uat2Test UAT test nama lengkapTest Karyawan BaruSUHERMAN RIYANTOSanti Dwi Astuti123RonaldoRatnaRamdanProject Managet TestProject Manager PrimaMikala FazaMika AnasMentari muliaMentari muliaMentari muliaLovensia Zukruff AlbasitJohn Data AnalystIka AnasherviHaeranierina fadilah palu gada indonesiaerina fadilah palu gada indonesiaerina fadilah palu gada indonesiaerina fadilah palu gada indonesiaerina fadilah palu gada indonesiaerina fadilah palu gada indonesiabzBAMBANG ARIFINasdAndriAhlan RezkiAgus Setyaadnan111Keterangan CutiTanda Tangan DigitalSubmit')]</value>
+      <webElementGuid>7544623f-7598-4322-9bd3-0b3fbf02624c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[3]/div/main/div/div/div/div</value>
+      <webElementGuid>8abcf5c9-a67c-44f8-8640-e144d0de92af</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='TestAccountKaryawan1'])[2]/following::div[7]</value>
+      <webElementGuid>e6d0cf54-3e91-486f-8f76-8c384a042824</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Admin telah mengkonfirmasi pengajuan lembur'])[2]/following::div[7]</value>
+      <webElementGuid>0057d925-8412-438f-b5b4-0dd73848ab0d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//main/div/div/div/div</value>
+      <webElementGuid>3e831241-0e0d-4bd8-a55a-c920dd9c02f1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Form Pengajuan CutiTanggal CutiJanuaryFebruaryMarchAprilMayJuneJulyAugustSeptemberOctoberNovemberDecember2045204420432042204120402039203820372036203520342033203220312030202920282027202620252024202320222021202020192018201720162015201420132012201120102009200820072006200520042003200220012000199919981997199619951994199319921991199019891988198719861985198419831982198119801979197819771976197519741973197219711970196919681967196619651964196319621961196019591958195719561955195419531952195119501949194819471946194519441943194219411940193919381937193619351934193319321931193019291928192719261925May 2025SunMonTueWedThuFriSat2728293012345678910111213141516171819202122232425262728293031Jun 2025SunMonTueWedThuFriSat12345678910111213141516171819202122232425262728293012345Total Hari5 HariJenis Cuti-Select-Cuti TahunanCuti HamilCuti SakitCuti LainnyaNama PIC-Select-yanragaTris Retno AryaniTris R ATestingDemoAppTesting123Testing Karyawan Baru scTestDev1TestAccountPM1test uat2Test UAT test nama lengkapTest Karyawan BaruSUHERMAN RIYANTOSanti Dwi Astuti123RonaldoRatnaRamdanProject Managet TestProject Manager PrimaMikala FazaMika AnasMentari muliaMentari muliaMentari muliaLovensia Zukruff AlbasitJohn Data AnalystIka AnasherviHaeranierina fadilah palu gada indonesiaerina fadilah palu gada indonesiaerina fadilah palu gada indonesiaerina fadilah palu gada indonesiaerina fadilah palu gada indonesiaerina fadilah palu gada indonesiabzBAMBANG ARIFINasdAndriAhlan RezkiAgus Setyaadnan111Keterangan CutiTanda Tangan DigitalSubmit' or . = 'Form Pengajuan CutiTanggal CutiJanuaryFebruaryMarchAprilMayJuneJulyAugustSeptemberOctoberNovemberDecember2045204420432042204120402039203820372036203520342033203220312030202920282027202620252024202320222021202020192018201720162015201420132012201120102009200820072006200520042003200220012000199919981997199619951994199319921991199019891988198719861985198419831982198119801979197819771976197519741973197219711970196919681967196619651964196319621961196019591958195719561955195419531952195119501949194819471946194519441943194219411940193919381937193619351934193319321931193019291928192719261925May 2025SunMonTueWedThuFriSat2728293012345678910111213141516171819202122232425262728293031Jun 2025SunMonTueWedThuFriSat12345678910111213141516171819202122232425262728293012345Total Hari5 HariJenis Cuti-Select-Cuti TahunanCuti HamilCuti SakitCuti LainnyaNama PIC-Select-yanragaTris Retno AryaniTris R ATestingDemoAppTesting123Testing Karyawan Baru scTestDev1TestAccountPM1test uat2Test UAT test nama lengkapTest Karyawan BaruSUHERMAN RIYANTOSanti Dwi Astuti123RonaldoRatnaRamdanProject Managet TestProject Manager PrimaMikala FazaMika AnasMentari muliaMentari muliaMentari muliaLovensia Zukruff AlbasitJohn Data AnalystIka AnasherviHaeranierina fadilah palu gada indonesiaerina fadilah palu gada indonesiaerina fadilah palu gada indonesiaerina fadilah palu gada indonesiaerina fadilah palu gada indonesiaerina fadilah palu gada indonesiabzBAMBANG ARIFINasdAndriAhlan RezkiAgus Setyaadnan111Keterangan CutiTanda Tangan DigitalSubmit')]</value>
+      <webElementGuid>ae40afff-fd46-4d5c-a44f-bc456472ddbe</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

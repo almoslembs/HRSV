@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Login HRSV Logbook Blank</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>58e1c2f7-daa7-4c07-b197-7cb5dfb77c31</testCaseGuid>
+</TestCaseEntity>

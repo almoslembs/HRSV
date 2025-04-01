@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>ul_TestAccountKaryawan1Full Stack EngineerL_2b9668</name>
+   <tag></tag>
+   <elementGuidId>c3fb6eaa-fe16-4e7b-bbdc-28e9b642954b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/ul</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>ul.c-sidebar-nav.h-100.ps</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;TestAccountKaryawan1Full Stack EngineerLogbookSlip GajiCuti dan Lembur&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>ul</value>
+      <webElementGuid>8a7e2d8b-afb7-4e67-882a-4f928e1b3caf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>c-sidebar-nav h-100 ps</value>
+      <webElementGuid>cce0fbc1-c91d-46ef-9286-bcb0ff3b3c32</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>TestAccountKaryawan1Full Stack EngineerLogbookSlip GajiCuti dan Lembur</value>
+      <webElementGuid>5d54d914-25dd-4cfb-b586-03d8e80a8a70</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;c-app c-default-layout&quot;]/div[@class=&quot;c-sidebar c-sidebar-dark c-sidebar-lg-show c-sidebar-fixed sidebar-root&quot;]/ul[@class=&quot;c-sidebar-nav h-100 ps&quot;]</value>
+      <webElementGuid>8bf6d5e1-70a2-42c2-9088-939cadad788a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/ul</value>
+      <webElementGuid>32a58d90-e552-4587-bbf8-ba1af8509495</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//ul</value>
+      <webElementGuid>0847116d-4f6e-4987-b948-d2af30d6e0f4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//ul[(text() = 'TestAccountKaryawan1Full Stack EngineerLogbookSlip GajiCuti dan Lembur' or . = 'TestAccountKaryawan1Full Stack EngineerLogbookSlip GajiCuti dan Lembur')]</value>
+      <webElementGuid>7d5e065e-ca80-4c52-9866-21f11ab325ea</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

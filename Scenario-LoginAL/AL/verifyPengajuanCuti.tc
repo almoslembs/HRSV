@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>verifyPengajuanCuti</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>0c3f72f2-19ef-414e-9c6f-e4720fc3daa1</testCaseGuid>
+</TestCaseEntity>
